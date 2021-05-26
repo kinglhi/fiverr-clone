@@ -1,0 +1,6 @@
+{
+  "printWidth": 1000000,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all"
+}
